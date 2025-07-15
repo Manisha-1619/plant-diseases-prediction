@@ -3,7 +3,7 @@
 
 This is a machine learning-based web application that predicts plant diseases from leaf images using Convolutional Neural Networks (CNN). It is trained on the PlantVillage dataset and can identify a variety of plant diseases as well as healthy leaves with high accuracy.
 
-🧠 Project Overview
+🧠 Project Overview: 
 
 - **Problem Statement**: Farmers often struggle to identify plant diseases accurately and on time. This project aims to provide an automated and accurate plant disease diagnosis tool using image classification.
 - **Solution**: A web application that allows users to upload images of leaves and receive instant disease predictions.
